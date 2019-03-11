@@ -1,0 +1,27 @@
+body{
+	align: center;
+	 background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+}
+}
+h1 {
+    color:#0000FF;
+}
+ 
+h2 {
+    color:#FF0000;
+}
+ 
+table {
+    border-collapse: collapse;
+     width:100%;
+     table-layout: fixed;
+     background-color: rgba(255,255,255,0.3);
+}
+th
+{
+	text-transform: uppercase;
+}
+ 
+table th, table td {
+    padding: 5px;
+}
