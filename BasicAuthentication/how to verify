@@ -1,0 +1,12 @@
+admin login:
+get call: http://localhost:8080/admin
+authorization:
+username: admin
+password: password
+
+
+user login:
+get call: http://localhost:8080/user
+authorization: type:basic authorization
+Username: user
+Password: password
